@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&display=swap');
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #E4DCCF;
+    height: 100vh;
+    width: 100%;
+
+    font-family: 'Fraunces', serif;
+}
+
+.card{
+    display: flex;
+    background: #fff;
+
+    width: 640px;
+    height: 536px;
+    border-radius: 30px;
+
+    overflow: hidden;
+}
+
+.image{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background: black;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+
+    padding-top: 30px;
+
+    width: 50%;
+    height: 100%;
+    background: #fff;
+}
+
+.description h2{
+    padding-left: 30px;
+    font-weight: 400;
+
+    font-size: 20px;
+    letter-spacing: 10px;
+    color: #9D9D9D;
+}
+
+.description .title{
+    padding-top: 20px;
+}
+
+.description .title h1{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    width: 90%;
+    padding-left: 30px;
+
+
+    color: #9D9D9D;
+}
+
+.description p{
+    width: 90%;
+    padding-top: 20px;
+    font-size: 19px;
+    padding-left: 30px;
+    font-weight: 400;
+
+
+    color:  #545454;
+}
+
+.description .price{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.description .price p:first-child{
+    font-size: 32px;
+    color: #79A772;
+    font-weight: bold;
+}
+
+.description .price p:last-child{
+    font-size: 14px;
+    text-decoration: line-through;
+    color: #AFAFAF;
+}
+
+.button{
+    margin-top: 35px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.button .btn-buy{
+    height: 50px;
+    width: 220px;
+    padding-left: 40px;
+
+    border: none;
+    border-radius: 10px;
+    background: #79A772;
+    color: #fff;
+
+    font-size: 19px;
+    font-family: 'Fraunces', serif;
+
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.button .btn-buy:hover{
+    background: #E4DCCF;
+    color: #79A772;
+}
