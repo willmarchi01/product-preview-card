@@ -8,3 +8,5 @@ This project was to test my skills in setting up a working environment in React,
 ![image](https://github.com/willmarchi01/react-product-preview-card/blob/main/midia/1.png)
 
 ## General Design
+
+![image](https://github.com/willmarchi01/react-product-preview-card/blob/main/midia/2.png)
