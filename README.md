@@ -4,3 +4,7 @@ This project was to test my skills in setting up a working environment in React,
 
 ## Technologies
 ### Front-End ([ReactJS](https://pt-br.reactjs.org/))
+
+![image](https://github.com/willmarchi01/react-product-preview-card/blob/main/midia/1.png)
+
+## General Design
