@@ -14,3 +14,7 @@ This project was to test my skills in setting up a working environment in React,
 ## Card Design
 
 ![image](https://github.com/willmarchi01/react-product-preview-card/blob/main/midia/3.png)
+
+## Card Hover
+
+![image](https://github.com/willmarchi01/react-product-preview-card/blob/main/midia/4.png)
